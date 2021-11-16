@@ -1,0 +1,20 @@
+#q{
+    font-family: Courier New, monospace	;
+}
+#logo{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.nav-wrapper{
+    background-color: black;
+}
+.card-panel{
+    text-align: center;
+}
+#vi{
+    margin-bottom: 50px;
+}
+#foo{
+    background-color: black;
+    height: 40px;
+    margin-top: 100px;
+}
